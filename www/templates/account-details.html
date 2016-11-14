@@ -1,0 +1,33 @@
+<ion-view view-title="{{account.name}}">
+  <ion-content>
+    <div class="row centered">
+      <div class="col">
+        <h1>{{account.balance | tocurrency}}</h1>
+        <p>available now</p>
+      </div>
+    </div>
+    <div class="row separator centered">
+      <div class="col">
+        <p>on deposit | {{account.balance | tocurrency}}</p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col">
+        <button class="button button-positive button-block">Make a Transction</button>
+      </div>
+    </div>
+    <div class="list">
+      <div class="item item-divider">
+        Recent Transactions
+      </div>
+      <a class="item item-icon-left" ui-sref="transactionDetails({accountId: account.id, id: tran.id})" ng-repeat="tran in account.transactions">
+        <i class="icon ion-{{tran.icon}}"></i>
+        <h2>{{tran.date}}</h2>
+        <p>{{tran.desc}}</p>
+        <span class="badge badge-balanced">{{tran.amt | tocurrency}}</span>
+      </a>
+
+    </div>
+
+  </ion-content>
+</ion-view>

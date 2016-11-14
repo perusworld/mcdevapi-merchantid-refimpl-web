@@ -1,0 +1,184 @@
+{
+   "MerchantIds":{
+      "Message":"7 merchants found.",
+      "ReturnedMerchants":{
+         "Merchant":[
+            {
+               "Address":{
+                  "Line1":"ONE MICROSOFT WAY",
+                  "Line2":"",
+                  "City":"REDMOND",
+                  "PostalCode":"98052",
+                  "CountrySubdivision":{
+                     "Name":"",
+                     "Code":"WA"
+                  },
+                  "Country":{
+                     "Name":"",
+                     "Code":""
+                  }
+               },
+               "PhoneNumber":"8003865550",
+               "BrandName":"",
+               "MerchantCategory":"4816 - COMPUTER NETWORK-INFORMATION SERVICES",
+               "MerchantDbaName":"MICROSOFT",
+               "DescriptorText":"MICROSOFT*ONECAREBILL.MS.NETWA",
+               "LegalCorporateName":"MICROSOFT CORPORATION",
+               "Comment":"",
+               "LocationId":288560095,
+               "SoleProprietorName":""
+            },
+            {
+               "Address":{
+                  "Line1":"ONE MICROSOFT WAY",
+                  "Line2":"",
+                  "City":"REDMOND",
+                  "PostalCode":"98052",
+                  "CountrySubdivision":{
+                     "Name":"",
+                     "Code":"WA"
+                  },
+                  "Country":{
+                     "Name":"",
+                     "Code":""
+                  }
+               },
+               "PhoneNumber":"8003865550",
+               "BrandName":"",
+               "MerchantCategory":"4816 - COMPUTER NETWORK-INFORMATION SERVICES",
+               "MerchantDbaName":"MICROSOFT",
+               "DescriptorText":"MICROSOFT*ONECARE08003865550WA",
+               "LegalCorporateName":"MICROSOFT CORPORATION",
+               "Comment":"",
+               "LocationId":288560095,
+               "SoleProprietorName":""
+            },
+            {
+               "Address":{
+                  "Line1":"ONE MICROSOFT WAY",
+                  "Line2":"",
+                  "City":"REDMOND",
+                  "PostalCode":"98052",
+                  "CountrySubdivision":{
+                     "Name":"",
+                     "Code":"WA"
+                  },
+                  "Country":{
+                     "Name":"",
+                     "Code":""
+                  }
+               },
+               "PhoneNumber":"8003865550",
+               "BrandName":"",
+               "MerchantCategory":"4816 - COMPUTER NETWORK-INFORMATION SERVICES",
+               "MerchantDbaName":"MICROSOFT",
+               "DescriptorText":"MICROSOFT*ONECARE800-888-4081WA",
+               "LegalCorporateName":"MICROSOFT CORPORATION",
+               "Comment":"",
+               "LocationId":0,
+               "SoleProprietorName":""
+            },
+            {
+               "Address":{
+                  "Line1":"ONE MICROSOFT WAY",
+                  "Line2":"",
+                  "City":"REDMOND",
+                  "PostalCode":"98052",
+                  "CountrySubdivision":{
+                     "Name":"",
+                     "Code":"WA"
+                  },
+                  "Country":{
+                     "Name":"",
+                     "Code":""
+                  }
+               },
+               "PhoneNumber":"8003865550",
+               "BrandName":"",
+               "MerchantCategory":"4816 - COMPUTER NETWORK-INFORMATION SERVICES",
+               "MerchantDbaName":"MICROSOFT",
+               "DescriptorText":"MICROSOFT*ONECARE800-386-5550WA",
+               "LegalCorporateName":"MICROSOFT CORPORATION",
+               "Comment":"",
+               "LocationId":288560095,
+               "SoleProprietorName":""
+            },
+            {
+               "Address":{
+                  "Line1":"ONE MICROSOFT WAY",
+                  "Line2":"",
+                  "City":"REDMOND",
+                  "PostalCode":"98052",
+                  "CountrySubdivision":{
+                     "Name":"",
+                     "Code":"WA"
+                  },
+                  "Country":{
+                     "Name":"",
+                     "Code":""
+                  }
+               },
+               "PhoneNumber":"8003865550",
+               "BrandName":"",
+               "MerchantCategory":"4816 - COMPUTER NETWORK-INFORMATION SERVICES",
+               "MerchantDbaName":"MICROSOFT",
+               "DescriptorText":"MICROSOFT*ONECARE866-663-2273WA",
+               "LegalCorporateName":"MICROSOFT CORPORATION",
+               "Comment":"",
+               "LocationId":288560095,
+               "SoleProprietorName":""
+            },
+            {
+               "Address":{
+                  "Line1":"ONE MICROSOFT WAY",
+                  "Line2":"",
+                  "City":"REDMOND",
+                  "PostalCode":"98052",
+                  "CountrySubdivision":{
+                     "Name":"",
+                     "Code":"WA"
+                  },
+                  "Country":{
+                     "Name":"",
+                     "Code":""
+                  }
+               },
+               "PhoneNumber":"8003865550",
+               "BrandName":"",
+               "MerchantCategory":"4816 - COMPUTER NETWORK-INFORMATION SERVICES",
+               "MerchantDbaName":"MICROSOFT",
+               "DescriptorText":"MICROSOFT*ONECARE866-263-2273WA",
+               "LegalCorporateName":"MICROSOFT CORPORATION",
+               "Comment":"",
+               "LocationId":288560095,
+               "SoleProprietorName":""
+            },
+            {
+               "Address":{
+                  "Line1":"ONE MICROSOFT WAY",
+                  "Line2":"",
+                  "City":"REDMOND",
+                  "PostalCode":"98052",
+                  "CountrySubdivision":{
+                     "Name":"",
+                     "Code":"WA"
+                  },
+                  "Country":{
+                     "Name":"",
+                     "Code":""
+                  }
+               },
+               "PhoneNumber":"",
+               "BrandName":"",
+               "MerchantCategory":"4816 - COMPUTER NETWORK-INFORMATION SERVICES",
+               "MerchantDbaName":"MICROSOFT",
+               "DescriptorText":"MICROSOFT*ONECARE800-527-2000WA",
+               "LegalCorporateName":"MICROSOFT CORPORATION",
+               "Comment":"",
+               "LocationId":0,
+               "SoleProprietorName":""
+            }
+         ]
+      }
+   }
+}

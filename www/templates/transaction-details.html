@@ -1,0 +1,36 @@
+<ion-view view-title="Transaction Details">
+    <ion-content>
+        <div class="list card">
+
+            <div class="item item-icon-left">
+                 <i class="icon ion-{{transaction.icon}}"></i>
+                {{transaction.desc}}
+                <p>{{transaction.date | date : 'd MMMM, yyyy'}}</p>
+            </div>
+            <div class="item item-divider">
+                <i class="icon ion-cash"></i> Amount
+                <span class="badge badge-balanced">{{transaction.amt | tocurrency}}</span>
+            </div>
+            <div class="item item-body">
+                <a class="item item-icon-left">
+                    <i class="icon ion-home"></i> Merchant
+                    <span class="item-note">{{transaction.merchant || merchant.LegalCorporateName}}</span>
+                </a>
+                <a class="item item-icon-left">
+                    <i class="icon ion-pricetag"></i> Category
+                    <span class="item-note">{{transaction.category}}</span>
+                </a>
+                <a class="item item-icon-left item-icon-right">
+                    <i class="icon ion-chatbubble-working"></i> Report Fraud
+                    <i class="icon ion-ios-telephone-outline"></i>
+                </a>
+                <a ng-if="merchant.Address" class="item item-icon-left">
+                    <i class="icon ion-location"></i>
+                    <h2>Address</h2>
+                    <p>{{merchant.Address.Line1}} {{merchant.Address.Line2}} {{merchant.Address.City}} {{merchant.Address.PostalCode}}</p>
+                </a>
+            </div>
+
+        </div>
+    </ion-content>
+</ion-view>
